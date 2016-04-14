@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
-    autoprefixer = require('gulp-autoprefixer')
+    autoprefixer = require('gulp-autoprefixer'),
     assign = require('lodash.assign');
 
 var defaultOptions = {
